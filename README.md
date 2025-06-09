@@ -1,4 +1,5 @@
 # Web-Scraping
-This repo contains my web scraping resources using numerous libraries in Python and JavaScript 
+This repo contains my web scraping resources using numerous libraries in Python and JavaScript  
 
-![image](https://github.com/user-attachments/assets/a132c548-f30e-4d0f-9998-c83d6c462e76)
+![image](https://github.com/user-attachments/assets/221db79e-e540-4f22-8c92-0439e481f7ea)
+
